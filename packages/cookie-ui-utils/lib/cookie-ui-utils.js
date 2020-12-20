@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-module.exports = cookieUiUtils;
+module.exports = cookieUiUtils
 
 function cookieUiUtils() {
-    // TODO
+  // TODO
 }
